@@ -6,6 +6,8 @@ This project features a reusable calendar component built with **React**, **Type
 
 The component dynamically highlights the date provided in the `date` prop and maintains perfect grid alignment while hiding dates from adjacent months.
 
+![Calendar Component Output](assets/calendar-output.png)
+
 
 ***
 
